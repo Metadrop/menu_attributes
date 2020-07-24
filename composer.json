@@ -2,7 +2,7 @@
     "name": "drupal/menu_attributes",
     "type": "drupal-module",
     "description": "Allows administrators to specify custom attributes for menu items.",
-    "homepage": "http://drupal.org/project/disqus",
+    "homepage": "http://drupal.org/project/menu_attributes",
     "license": "GPL-2.0-or-later",
     "require": {
         "drupal/core": "^8 || ^9"
